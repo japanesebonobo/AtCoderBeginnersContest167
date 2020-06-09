@@ -5,7 +5,6 @@ public class B {
         Scanner scanner = new Scanner(System.in);
         long A = scanner.nextLong();
         long B = scanner.nextLong();
-        long C = scanner.nextLong();
 
         long K = scanner.nextLong();
 
